@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Spieler
+comment1.params=
+comment1.target=Spieler()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ treffen()
+comment4.params=tierObjekt
+comment4.target=void\ getBeruehrung(Tier)
+comment5.params=
+comment5.target=void\ move()
+comment6.params=
+comment6.target=void\ anzeigen()
+numComments=7
